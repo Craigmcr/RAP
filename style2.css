@@ -1,0 +1,216 @@
+    body {
+        background-color:lightblue;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin:0 auto;
+    }
+
+    .main_img {
+        position:fixed;
+        opacity:40%;
+        background-image:url(./cspic.jpg);
+        background-size:cover;
+        background-position:center;
+        height:100%;
+        width:100%;
+    }
+
+    .brand_name {
+        font-family: Impact;
+        font-size:10pt;
+        margin:0 auto;
+    }
+
+    .topnav-centered a{
+        float:none;
+        position:absolute;
+        top:50%;
+        left:50%;
+        transform: translate(-50%,-50%);
+    }
+
+    .topnav-right{
+        float:right;
+    }
+
+    #steam_Link{
+        width:18px;
+        height:18px;
+    }
+
+    #youtube_Link{
+        width:18px;
+        height:18px;
+    }
+
+    .container {
+        display:inline;
+        float:right;
+    }
+
+    .card-img-top {
+        align-self: center;
+        margin-top:5px ;
+        border-radius:5px;
+    }
+
+    .box1:hover {
+        background-color:lightgrey;
+        box-shadow:5px 10px;
+    }
+
+    .box2:hover {
+        background-color:lightgrey;
+        box-shadow:5px 10px;
+    }
+
+    .box3:hover {
+        background-color:lightgrey;
+        box-shadow:5px 10px;
+    }
+
+    .box4:hover {
+        background-color:lightgrey;
+        box-shadow:5px 10px;
+    }
+
+    .box5:hover {
+        background-color:lightgrey;
+        box-shadow:5px 10px;
+    }
+
+    .box6:hover {
+        background-color:lightgrey;
+        box-shadow:5px 10px;
+    }
+
+    #myModal {
+        font-family: Arial, sans-serif;
+    }
+
+    @media (min-width: 576px){
+
+    body {
+        background-color:lightblue;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin:0 auto;
+    }
+
+    .main_img {
+        position:fixed;
+        opacity:40%;
+        background-image:url(./cspic.jpg);
+        background-size:cover;
+        background-position:center;
+        height:100%;
+        width:100%;
+    }
+
+    .brand_name {
+        font-family: Impact;
+        font-size:14pt;
+        margin:0 auto;
+    }
+
+    .topnav-centered a{
+        float:none;
+        position:absolute;
+        top:50%;
+        left:50%;
+        transform: translate(-50%,-50%);
+    }
+
+    .topnav-right{
+        float:right;
+    }
+
+    #steam_Link{
+        width:24px;
+        height:24px;
+    }
+
+    #youtube_Link{
+        width:24px;
+        height:24px;
+    }
+
+    .container {
+        display:inline;
+        float:left;
+    }
+
+    .card-deck{
+        align-self:center;
+        margin:0 auto;
+    }
+
+    .card-img-top {
+        align-self: center;
+        margin-top:5px ;
+        border-radius:5px;
+    }
+
+    .box1  {
+        max-width:300px;
+    }
+
+    .box1:hover {
+        background-color:lightgrey;
+        box-shadow:5px 10px;
+    }
+
+    .box2  {
+        max-width:300px;
+    }
+
+    .box2:hover {
+        background-color:lightgrey;
+        box-shadow:5px 10px;
+    }
+
+    .box3  {
+        max-width:300px;
+    }
+
+    .box3:hover {
+        background-color:lightgrey;
+        box-shadow:5px 10px;
+    }
+
+    .box4  {
+        max-width:300px;
+    }
+
+    .box4:hover {
+        background-color:lightgrey;
+        box-shadow:5px 10px;
+    }
+
+    .box5  {
+        max-width:300px;
+    }
+
+    .box5:hover {
+        background-color:lightgrey;
+        box-shadow:5px 10px;
+    }
+
+    .box6  {
+        max-width:300px;
+    }
+
+    .box6:hover {
+        background-color:lightgrey;
+        box-shadow:5px 10px;
+    }
+
+    #myModal {
+        font-family: Arial, sans-serif;
+    }
+
+}
+
+{
+
+
+
+}
